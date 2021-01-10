@@ -1,0 +1,10 @@
+#image{
+
+    max-width: 100%;
+
+}
+
+#img-div{
+    display: flex;
+    justify-content: center;
+}
